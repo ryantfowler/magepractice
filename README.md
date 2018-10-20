@@ -1,5 +1,4 @@
 # MagePractice
-## Magento 2 good practices, based on community input.
 
 ### Description
 There's a wealth of knowledge on the Interwebs for working with Magento 1 and Magento 2, but it's scattered and not necessarily centralized. There's a list of "go-to people" and a list of "go-to resources" that we each have, but maybe we could do better?
